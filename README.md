@@ -23,7 +23,7 @@ The project follows an organized structure based on features, using the MVC patt
 
 Access resources using the resource manager:
 
-```
+```dart
 // Colors
 ColorManager.primary;
 
@@ -31,8 +31,6 @@ ColorManager.primary;
 ImageAssets.splashLogoPng;
 SVGAssets.homeSvg;
 IconAssets.arrowRight;
-```
-
 
 // Font weights
 FontWeightManager.black;

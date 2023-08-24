@@ -1,9 +1,9 @@
-Sure, here's the corrected version of your README:
+
+![Logo](https://github.com/zaynrix/Mentz-Anwendungsaufgabe/assets/28483872/55473802-7ad9-4526-a556-1bbdf8949cde)
 
 ```markdown
 # MENTZ
 
-![Logo](https://github.com/zaynrix/Mentz-Anwendungsaufgabe/assets/28483872/55473802-7ad9-4526-a556-1bbdf8949cde)
 
 ## Folder Structure
 

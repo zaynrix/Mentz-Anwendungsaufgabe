@@ -72,7 +72,7 @@ The project utilizes the following packages for various features and functionali
 
 # APK
 <p align="center">
-<a href="https://drive.google.com/file/d/1-jNxDuTOwrfq8vmRkkAsxaxu0Suzl_-H/view?usp=drive_link" target="_blank"><img src="screenShots/download.png" width="100"></a>
+<a href="https://drive.google.com/file/d/1-jNxDuTOwrfq8vmRkkAsxaxu0Suzl_-H/view?usp=drive_link" target="_blank"><img src="https://www.pngmart.com/files/10/Red-Download-Now-Button-PNG-File.png" width="100"></a>
  </p>
 
 

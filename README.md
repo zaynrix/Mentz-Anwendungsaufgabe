@@ -17,7 +17,7 @@ The project follows an organized structure based on features, using the MVC patt
                     | repositories -> Corresponding repositories for providers
                     | widgets -> Widgets directly related to the feature 
 
-```
+
 ```
 
 ## Usage

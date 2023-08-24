@@ -13,30 +13,49 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # Packages for app features and functionality
+
+  # Generates launcher icons for different platforms
   flutter_launcher_icons: ^0.13.1
 
+  # Cupertino icons for iOS-styled icons
   cupertino_icons: ^1.0.2
+
+  # Supports rendering SVG images
   flutter_svg: ^1.1.6
+
+  # State management library for managing app state
   provider: ^6.0.5
+
+  # Tool for renaming identifiers (e.g., files, folders)
   rename: ^2.1.1
+
+  # A powerful HTTP client for making API requests
   dio:
+
+  # Responsive design library for Flutter
   flutter_screenutil: ^5.9.0
+
+  # Service locator for dependency injection
   get_it: ^7.6.0
+
+  # Creates shimmering effects for loading content
   shimmer: ^3.0.0
-  http: ^1.1.0
+
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  # Dev dependencies for linting
 
+  # Lint rules and configurations for Flutter apps
   flutter_lints: ^2.0.0
 
-
 flutter:
-
+  # Uses material design for styling
   uses-material-design: true
 
-
+  # Assets that your app uses (e.g., images, icons)
   assets:
-    - assets/logos/
+    - assets/logos/  # Specify your asset paths here

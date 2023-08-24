@@ -67,6 +67,17 @@ The project utilizes the following packages for various features and functionali
 - **cupertino_icons:** Provides iOS-styled icons
 - **flutter_svg:** Renders SVG images
 - **provider:** Manages app state using state management
+
+
+
+# APK
+<p align="center">
+<a href="https://drive.google.com/file/d/1-jNxDuTOwrfq8vmRkkAsxaxu0Suzl_-H/view?usp=drive_link" target="_blank"><img src="screenShots/download.png" width="100"></a>
+ </p>
+
+
+
+
 - **rename:** Renames identifiers like files and folders
 - **dio:** A powerful HTTP client for making API requests
 - **flutter_screenutil:** Responsive design library for Flutter

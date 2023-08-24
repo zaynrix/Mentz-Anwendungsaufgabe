@@ -9,7 +9,6 @@
 
 The project follows an organized structure based on features, using the MVC pattern.
 
-```
 |-lib|
      |     
      | Registration | models -> Feature-specific models 
@@ -17,6 +16,8 @@ The project follows an organized structure based on features, using the MVC patt
                     | providers -> Required providers for the feature 
                     | repositories -> Corresponding repositories for providers
                     | widgets -> Widgets directly related to the feature 
+
+```
 ```
 
 ## Usage

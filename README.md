@@ -20,6 +20,10 @@ The project follows an organized structure based on features, using the MVC patt
 
 ```
 
+```
+
+```
+
 ## Usage
 
 Access resources using the resource manager:

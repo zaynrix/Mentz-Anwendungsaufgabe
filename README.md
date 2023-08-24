@@ -1,13 +1,15 @@
-
-![logo](https://github.com/zaynrix/Mentz-Anwendungsaufgabe/assets/28483872/55473802-7ad9-4526-a556-1bbdf8949cde)
+Sure, here's the corrected version of your README:
 
 ```markdown
 # MENTZ
 
+![Logo](https://github.com/zaynrix/Mentz-Anwendungsaufgabe/assets/28483872/55473802-7ad9-4526-a556-1bbdf8949cde)
 
 ## Folder Structure
 
 The project follows an organized structure based on features, using the MVC pattern.
+
+```
 |-lib|
      |     
      | Registration | models -> Feature-specific models 
@@ -15,8 +17,6 @@ The project follows an organized structure based on features, using the MVC patt
                     | providers -> Required providers for the feature 
                     | repositories -> Corresponding repositories for providers
                     | widgets -> Widgets directly related to the feature 
-
-```
 ```
 
 ## Usage

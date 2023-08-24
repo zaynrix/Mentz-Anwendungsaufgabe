@@ -23,7 +23,7 @@ The project follows an organized structure based on features, using the MVC patt
 
 Access resources using the resource manager:
 
-```dart
+```
 // Colors
 ColorManager.primary;
 
@@ -31,6 +31,8 @@ ColorManager.primary;
 ImageAssets.splashLogoPng;
 SVGAssets.homeSvg;
 IconAssets.arrowRight;
+```
+
 
 // Font weights
 FontWeightManager.black;
@@ -67,5 +69,3 @@ The project utilizes the following packages for various features and functionali
 - **flutter_screenutil:** Responsive design library for Flutter
 - **get_it:** A service locator for dependency injection
 - **shimmer:** Creates shimmering effects for loading content
-```
-

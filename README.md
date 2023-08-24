@@ -2,8 +2,8 @@
 
 ```markdown
 # MENTZ
+![logo](https://github.com/zaynrix/Mentz-Anwendungsaufgabe/assets/28483872/55473802-7ad9-4526-a556-1bbdf8949cde)
 
-![Logo](https://github.com/zaynrix/Mentz-Anwendungsaufgabe/assets/28483872/7aa57c02-03df-4e71-9f06-3a621e363793)
 
 ## Folder Structure
 
@@ -69,4 +69,3 @@ The project utilizes the following packages for various features and functionali
 - **shimmer:** Creates shimmering effects for loading content
 ```
 
-Feel free to customize the URLs, paths, and descriptions according to your project.
